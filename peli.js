@@ -42,3 +42,5 @@ if (alku == "k") {
   }
 } else console.log("ei sitte");
 console.log(`${oikeatVataukset}/6`);
+
+console.log("nyt tää on parempi koodi")
