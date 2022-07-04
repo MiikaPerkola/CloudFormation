@@ -1,3 +1,0 @@
-funciont hello() {
-    return
-}
